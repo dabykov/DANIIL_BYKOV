@@ -1,4 +1,4 @@
-# Data-Science-Portfolio
+# Data Science Portfolio
 This portfolio contains a high-level overview of my personal Data Science/Machine Learning projects.
 
 # [Data Collection and Analysis: Project Overview](https://github.com/dabykov/Projects/tree/main/project-1)
@@ -7,9 +7,9 @@ The goal of the project is to build and analyze a dataset that contains general 
 * Performed web scraping and extracted general information on 196 major figures using BeautifulSoup library.
 * Cleaned and transformed the data for it to be usable for exploratory analysis using Pandas, Numpy, and Regex libraries. 
 * Performed exploratory data analysis on 14 different features in order to gain some insights into the dataset.
-![alt text](https://github.com/dabykov/Projects/blob/main/project-1/occupations.png)
-![alt text](https://github.com/dabykov/Projects/blob/main/project-1/decades.png)
-![alt text](https://github.com/dabykov/Projects/blob/main/project-1/countries.png)
+![alt text](https://github.com/dabykov/Data-Science-Portfolio/blob/main/images/countries.png)
+![alt text](https://github.com/dabykov/Data-Science-Portfolio/blob/main/images/decades.png)
+![alt text](https://github.com/dabykov/Data-Science-Portfolio/blob/main/images/occupations.png)
 
 
 # [Airbnb Price Prediciton Model: Project Overview](https://github.com/dabykov/Projects/tree/main/project-2)
