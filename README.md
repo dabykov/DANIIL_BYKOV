@@ -19,11 +19,12 @@ Here are some highlights from EDA:
     <li> Performed exploratory data analysis for 12 variables, which included calculating key metrics, examining correlation between numerical variables, performing analysis of variance.</li>
     <li> Visualized variables in order to gain insights into data distribution, proportions, and values counts, using Matplotlib and Seaborn libraries.</li>
     <li> Engineered features, which included feature scaling, one-hot encoding, and deimensionality reduction.</li>
-    <li> Trained and tested three different models: </li>
-        *	**Random Forest regression**(R-squared: 99.9%)
-        *	**Gradient Boosting Regression** (R-squared = 99.9%)
-        *	**KNN Regression**: (R-squared: 94.3%).</li>
-</ul>
+    <li> Trained and tested three different models: </li></ul>
+    
+        	Random Forest regression (R-squared: 99.9%)
+        	Gradient Boosting Regression (R-squared: 99.9%)
+        	KNN Regression (R-squared: 94.3%).
+
     
 Here are some project highlights:
 
