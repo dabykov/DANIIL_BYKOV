@@ -16,7 +16,7 @@ Here are some highlights from EDA:
  The goal of this project was to build a predictive regression model that estimates Airbnb prices in New York City. In order to do it, I implemented several steps:
  <ul>
     <li> Cleaned the data for it to be usable for exploratory analysis using such libraries as Pandas and Numpy</li>
-    <li> Performed exploratory data analysis for 12 variables, which included calculating key metrics, examining correlation between numerical variables, performing analysis of variance.</li>
+    <li> Performed exploratory data analysis for 12 variables, which included calculating statistical key metrics, examining correlation between numerical variables, performing analysis of variance.</li>
     <li> Visualized variables in order to gain insights into data distribution, proportions, and values counts, using Matplotlib and Seaborn libraries.</li>
     <li> Engineered features, which included feature scaling, one-hot encoding, and deimensionality reduction.</li>
     <li> Trained and tested three different models: </li></ul>
