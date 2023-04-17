@@ -8,7 +8,7 @@ The goal of this project was to build a dataset that contains general informatio
 Here are some highlights from EDA:
 <br>
 
-![alt](./images/countries1.png)
+![alt](https://github.com/dabykov/Data-Science-Portfolio/blob/main/docs/assets/images/countries1.png?raw=true)
 ![]()
 ![]()
 
