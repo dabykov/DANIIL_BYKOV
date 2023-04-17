@@ -7,7 +7,7 @@ The goal of this project was to build a dataset that contains general informatio
 <li> Performed exploratory data analysis and visualized the results in order to gain interesting insights using Matplotlib library.</li> </ul>
 Here are some highlights from EDA:
 
-![](https://github.com/dabykov/Data-Science-Portfolio/blob/main/images/countries1.png)
+![](https://github.com/dabykov/Data-Science-Portfolio/blob/main/docs/assets/countries1.png)
 
 # [Project 2: New York Airbnb Price Prediciton Model](https://github.com/dabykov/Projects/tree/main/project-2)
 For this project, I built a predictive regression model that estimates Airbnb prices in New York City. The objective of the project is to showcase the skills related to data preprocessing, exploratory data analysis and multiple regression model building and tuning.
