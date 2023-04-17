@@ -8,7 +8,7 @@ The goal of this project was to build a dataset that contains general informatio
 Here are some highlights from EDA:
 <br>
 
-![](https://github.com/dabykov/Data-Science-Portfolio/blob/main/docs/assets/Dashboard%201.png?raw=true)
+![](https://github.com/dabykov/Data-Science-Portfolio/blob/main/docs/assets/dashboard%201_1.png?raw=true)
 
 # [Project 2: New York Airbnb Price Prediction Model](https://github.com/dabykov/Projects/tree/main/project-2)
  The goal of this project was to build a predictive regression model that estimates Airbnb prices in New York City. In order to do it, I implemented several steps:
