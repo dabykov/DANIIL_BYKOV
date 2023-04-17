@@ -5,8 +5,6 @@ The goal of this project was to build a dataset that contains general informatio
 <li> Transformed and cleaned the data for it to be usable for exploratory analysis using such libraries as Pandas, Numpy, and Regex. </li>
 <li> Engineered features and augmented data.</li>
 <li> Performed exploratory data analysis and visualized the results in order to gain interesting insights using Matplotlib library.</li> </ul>
-Here are some highlights from EDA:
-<br>
 
 ![](https://github.com/dabykov/Data-Science-Portfolio/blob/main/docs/assets/dashboard%201_1.png?raw=true)
 
