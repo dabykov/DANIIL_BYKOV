@@ -1,4 +1,4 @@
-# Data Collection and Analysis: Project Overview
+# [Data Collection and Analysis: Project Overview](https://github.com/dabykov/Projects/tree/main/project-1)
 The goal of this project was to build a dataset that contains general information about major old Hollywood figures. In order to do it, I implemented several steps:
 <ul>
 <li> Scraped Wikipedia webpages of 196 figures using BeautifulSoup library </li>
