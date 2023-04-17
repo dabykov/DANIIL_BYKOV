@@ -38,8 +38,7 @@ The goal of this project was to build a predictive classification model that est
     <li> Performed exploratory data analysis for 14 variables, which included calculating key statistical metrics, examining correlation between numerical variables, performing analysis of variance.</li>
     <li> Visualized featires in order to gain insights into data distribution, proportions, and values counts, using Matplotlib and Seaborn libraries.</li>
     <li> Engineered features, which included feature scaling, one-hot encoding, and target imbalance handling</li>
-    <li> Trained and tested seven different classification models </li>
-    
+    <li> Trained and tested seven different classification models: </li>
     
 |  | Model	| Training Accuracy	| Test Accuracy|
 |--|-------|-----------------|--------|
