@@ -39,8 +39,6 @@ The goal of this project was to build a predictive classification model that est
     <li> Visualized featires in order to gain insights into data distribution, proportions, and values counts, using Matplotlib and Seaborn libraries.</li>
     <li> Engineered features, which included feature scaling, one-hot encoding, and target imbalance handling</li>
     <li> Trained and tested seven different classification models </li>
- <li> Built an ensemble model from three best performing models </li>
-</ul>
     
     
 |  | Model	| Training Accuracy	| Test Accuracy|
@@ -52,6 +50,9 @@ The goal of this project was to build a predictive classification model that est
 |5	| SVC	| 0.797094	| 0.795521|
 |6 |	AdaBoostClassifier	| 0.783459	| 0.789870|
 |7	| GradientBoostingClassifier	| 0.828938	| 0.824404|
+
+  <li> Built an ensemble model from three best performing models with accuracy value at 82.7% </li>
+</ul>
 
 Here are some project highlights:
 
