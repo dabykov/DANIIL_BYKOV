@@ -12,7 +12,7 @@ Here are some highlights from EDA:
 ![]()
 ![]()
 
-# [Project 2: New York Airbnb Price Prediciton Model](https://github.com/dabykov/Projects/tree/main/project-2)
+# [Project 2: New York Airbnb Price Prediction Model](https://github.com/dabykov/Projects/tree/main/project-2)
  The goal of this project was to build a predictive regression model that estimates Airbnb prices in New York City. In order to do it, I implemented several steps:
  <ul>
     <li> Cleaned the data for it to be usable for exploratory analysis using such libraries as Pandas and Numpy</li>
