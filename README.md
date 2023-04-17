@@ -8,8 +8,8 @@ The goal of this project was to build a dataset that contains general informatio
 Here are some highlights from EDA:
 <br>
 
-![alt](https://github.com/dabykov/Data-Science-Portfolio/blob/main/docs/assets/images/countries1.png?raw=true)
-![]()
+![](https://github.com/dabykov/Data-Science-Portfolio/blob/main/docs/assets/images/countries1.png?raw=true)
+![](https://github.com/dabykov/Data-Science-Portfolio/blob/main/docs/assets/images/decades1.png?raw=true)
 ![]()
 
 # [Project 2: New York Airbnb Price Prediction Model](https://github.com/dabykov/Projects/tree/main/project-2)
