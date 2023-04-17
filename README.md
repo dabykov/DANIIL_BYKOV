@@ -5,6 +5,3 @@ dxfghbjnkm,.[;
 
 ## ccghjbknl
 
-
-## rttcyghbjnkl
-exyctuyibunjm,pl.;/'
