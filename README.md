@@ -1,4 +1,4 @@
-# [Project 1: Web Scraping and Data Analysis] (https://github.com/dabykov/Projects/tree/main/project-)
+# [Project 1: Web Scraping and Data Analysis](https://github.com/dabykov/Projects/tree/main/project-)
 The goal of this project was to build a dataset that contains general information about major old Hollywood figures. In order to do it, I implemented several steps:
 <ul>
 <li> Scraped Wikipedia webpages of 196 figures using BeautifulSoup library. </li>
