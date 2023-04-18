@@ -46,8 +46,5 @@ The goal of this project was to build a predictive classification model that est
   <li> Built an ensemble model from three best performing models with accuracy value at 82.7% </li>
 </ul>
 
-Here are some project highlights:
+![](https://github.com/dabykov/Data-Science-Portfolio/blob/main/docs/assets/Dashboard%203.png?raw=true)
 
-![]()
-![]()
-![]()
