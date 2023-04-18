@@ -1,10 +1,4 @@
-<div style="border: 1px solid #ccc; border-radius: 3px; padding: 5px;">
-  <a href="https://github.com/dabykov/Projects/tree/main/project-1" style="text-decoration: none; color: #333;">
-    Project 1: Web Scraping and Data Analysis
-  </a>
-</div>
-
-# Project 1: Web Scraping and Data Analysis https://github.com/dabykov/Projects/tree/main/project-1
+# [Project 1: Web Scraping and Data Analysis] (https://github.com/dabykov/Projects/tree/main/project-)
 The goal of this project was to build a dataset that contains general information about major old Hollywood figures. In order to do it, I implemented several steps:
 <ul>
 <li> Scraped Wikipedia webpages of 196 figures using BeautifulSoup library. </li>
