@@ -21,11 +21,8 @@ The goal of this project was to build a dataset that contains general informatio
         	Gradient Boosting Regression (R-squared: 99.9%)
         	KNN Regression (R-squared: 94.3%).
 
-Here are some project highlights:
+![](https://github.com/dabykov/Data-Science-Portfolio/blob/main/docs/assets/Dashboard%202.png?raw=true)
 
-![]()
-![]()
-![]()
 
 # [Project 3: Bank Customer Churn Prediction Model](https://github.com/dabykov/Projects/tree/main/project-3)
 The goal of this project was to build a predictive classification model that estimates whether a certain bank customer is likely to leave. In order to do it, I implemented several steps:
