@@ -28,7 +28,7 @@ The goal of this project was to build a dataset that contains general informatio
 The goal of this project was to build a predictive classification model that estimates whether a certain bank customer is likely to leave. In order to do it, I implemented several steps:
  <ul>
     <li> Cleaned the data so it would be usable for exploratory analysis using such libraries as Pandas and Numpy</li>
-    <li> Performed exploratory data analysis for 14 variables, which included calculating key statistical metrics, examining correlation between numerical variables, performing analysis of variance.</li>
+    <li> Performed exploratory data analysis for 14 variables, which included calculating key statistical metrics, examining correlation between numerical variables, and performing analysis of variance.</li>
     <li> Visualized features in order to gain insights into data distribution, proportions, and values counts, using Matplotlib and Seaborn libraries.</li>
     <li> Engineered features, which included feature scaling, one-hot encoding, and target imbalance handling</li>
     <li> Trained and tested seven different classification models: </li>
@@ -48,3 +48,22 @@ The goal of this project was to build a predictive classification model that est
 
 ![](https://github.com/dabykov/Data-Science-Portfolio/blob/main/docs/assets/Dashboard%203.png?raw=true)
 
+
+# [Project 4: UFC Fighters Segmentation using K-means](https://github.com/dabykov/Projects/tree/main/project-4)
+The goal of this project is to perform a clustering analysis that would segment UFC fighters into different groups based on their characteristics available. In order to do it, I implemented several steps:
+ <ul>
+    <li> Cleaned up the data for it to be suitable for exploratory analysis using such libraries as Pandas and Numpy.</li>
+    <li> Performed exploratory data analysis for 6 variables, which included calculating key descriptive statistics, examining the correlation between numerical variables, and assessing the frequency distribution of each using Matplotlib and Seaborn libraries.</li>
+    <li> Performed data preprocessing, which included feature scaling, dimensionality reduction, and defining the optimal number of clusters using the Elbow method.</li>
+    <li> Applied K-means clustering algorithm and visualized the results. </li>
+    <li> Evaluated the results and profiled each cluster in the following way: </li>
+
+
+| Cluster 1 | Cluster 2	| Cluster 3	| Cluster 4 |
+|--|-------|-----------------|--------|
+| Young fighters	| Highly experienced both in UFC and MMA	| Young fighters	| Very experienced in MMA, decent experience in UFC |
+| UFC newcomers	| Mostly fighters of mature age	| UFC newcomers	| Mostly mature fighters |
+| Mostly middle-weight, heavy-weight categories | Weight categories vary significantly	| Mostly light-weight, middle-weight categories| Weight categories vary significantly |
+| Tall fighters	| Mostly tall fighters	| Fighters of smaller height	| Middle-height fighters |
+
+![](https://github.com/dabykov/DANIIL_BYKOV/blob/main/docs/assets/Dashboard%204.png?raw=true)
